@@ -18,7 +18,7 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 * OOP incorporates logical classes, objects, methods, relationships and other processes.
 * [A story](https://www.quora.com/What-is-object-oriented-programming)
 
-### What are the tree pillars of OOP?
+### What are the three pillars of OOP?
 
 * Encapsulation
 * Inheritance
@@ -30,7 +30,7 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
     * A new object derives from an existing class. The object inherits the characteristics of the more general class. The object is sometimes called a derived class, while the more general class is known as a base class.
 * Enapsulation - Keeping things seperate
     * Encapsulation is that you want to keep each type or object discreet and self-contained, so that you can change the implementation of one object without affecting any other object. [Source](http://stackoverflow.com/a/2285425/6664582)
-* Polymorphism - treating objects in a certain way
+* Polymorphism - treating objects in a certain way [THIS DEFINITION NEEDS WORK]
     * Programming language processes objects differently depending on their data type or class
     * Polymorphism describes a pattern in object oriented programming in which classes have different functionality while sharing a common interface. [Source](https://code.tutsplus.com/tutorials/understanding-and-applying-polymorphism-in-php--net-14362)
 * Abstraction - expose only what matters
@@ -69,6 +69,8 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 * Initialize method dictates how to create new objects of a class with some initial values if they are set. It is not obligatory, you don’t strictly need it to create a new object.
 
 ### What should be done in the `initialize` method?
+
+[THIS ANSWER AND QUESTION NEEDS EDITING]
 
 * Enforce that upon object creation some initial values are set (such as gender and breed for the Dog class). Initialize method dictates how to make new objects of a class. It is not obligatory, you don’t strictly need it to create a new object.
 
@@ -123,7 +125,7 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 ### Differences between Objects and Modules
 
 * Modules serve as a mechanism for namespaces
-* Modules provide as a mechanism for multiple inheritance via mix-ins and cannot be instantiated like classes can
+* Modules provide a mechanism for multiple inheritance via mix-ins and cannot be instantiated
 
 ### When to use modules vs classes?
 
@@ -153,6 +155,12 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 
 * An ORM (Object Relational Mapper) is a piece/layer of software that helps map your code objects to your database
 
+[NEEDS EDITING]   
+* Base classes are represented with tables
+* Table names are associated with the class names
+* Table columns are mapped to database based on the that classes attributes
+* Each instance of a class represented as a row in that table
+
 ### What is ORM used in rails?
 
 * ActiveRecord
@@ -179,6 +187,10 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 * Has one through
 * Has and belongs to many
 
+### What is usually required to have a many to many relationship
+
+* A join table
+
 ### What are strong params and how are they used?
 
 * It provides an interface for protecting attributes from end-user assignment
@@ -187,17 +199,21 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 
 ### Where do we get params from?
 
-* Through form submissions and form the URL
+* Usually through form submissions and form the URL
 
 ### What happens after we hit ‘submit’ on a form?
 
+[THIS NEEDS EDITING]
+
 * The form will be submitted to the server and the browser will redirect away to the current address of the browser and append as query string parameters the values of the input fields [Source](http://stackoverflow.com/a/21814331/6664582)
+
+* Mention that the process involves going into routes, and in routes controller is found, and then an action is triggered in that controller.
 
 ### What file extension we use for views in Rails?
 
 * .erb
 
-### What request is a request for creating a resource?
+### What request is a used for creating a resource?
 
 * post-request
 
