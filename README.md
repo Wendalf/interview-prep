@@ -147,7 +147,7 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 * The Model-View-Controller paradigm is a popular way of building frameworks for web applications - it provides a separation of concerns where groups of files have specific jobs and interact with each other in very defined ways.
     * Models: The 'logic' of a web application. This is where data is manipulated and/or saved.
     * Views: The 'front-end', user-facing part of a web application - this is the only part of the app that the user interacts with directly. Views generally consist of HTML, CSS, and Javascript.
-    * Controllers: The go-between for models and views. The controller relays data from the browser to the application, and from the application to the browser. Source
+    * Controllers: The go-between for models and views. The controller relays data from the browser to the application, and from the application to the browser. [Source](https://learn.co/tracks/full-stack-web-development/sinatra/mvc-and-forms/intro-to-mvc)
 
 ### What is ORM?
 
@@ -193,6 +193,14 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 
 * The form will be submitted to the server and the browser will redirect away to the current address of the browser and append as query string parameters the values of the input fields [Source](http://stackoverflow.com/a/21814331/6664582)
 
+### What file extension we use for views in Rails?
+
+* .erb
+
+### What request is a request for creating a resource?
+
+* post-request
+
 
 ## Javascript
 ----
@@ -235,4 +243,12 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 ### What is hoisting?
 
 * [ADD CONTENT]
+
+
+Resources:
+
+* [What is object-oriented programming?](https://www.quora.com/What-is-object-oriented-programming)
+* [15 Questions to Ask During a Ruby Interview](https://gist.github.com/ryansobol/5252653)
+* [The Basics: Object Oriented Programming Concepts](http://www.webopedia.com/TERM/O/object_oriented_programming_OOP.html)
+
 
