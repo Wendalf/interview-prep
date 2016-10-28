@@ -1,5 +1,7 @@
 # interview-prep
 
+This is a work in progress. Feel free to improve it.
+
 Questions taken from [here](http://www.theodinproject.com/courses/ruby-programming/lessons/object-oriented-programming) and elsewhere
 
 ## Ruby, OOP and Classes
@@ -17,9 +19,10 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 * [A story](https://www.quora.com/What-is-object-oriented-programming)
 
 ### What are the tree pillars of OOP?
-    * Encapsulation
-    * Inheritance
-    * Polymorphism
+
+* Encapsulation
+* Inheritance
+* Polymorphism
 
 ### What is Inheritance? Polymorphism? Encapsulation? Abstraction?
 
@@ -44,6 +47,8 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 
 ### When should you use a class?
 
+[Needs better answer]
+
 * Classes can organize your code into reusable modules and design your applications using concepts derived from the Object-Oriented Design discipline. It's a way to view your code in a more intuitive, real-world way. It encourages inheritance, encapsulation, abstraction, polymorhpism.
 
 ### What is an instance of a class?
@@ -59,7 +64,7 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 
 * [ADD CONTENT]
 
-### What is a `initialize` method? (Partly synonimous to `constructor` in javascrip)
+### What is a `initialize` method? (Partly synonimous to `constructor` in javascript)
 
 * Initialize method dictates how to create new objects of a class with some initial values if they are set. It is not obligatory, you don’t strictly need it to create a new object.
 
@@ -161,7 +166,7 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 
 * [ADD CONTENT]
 
-### What are migration
+### What are migrations
 
 * Migrations are a convenient way to alter your database schema over time in a consistent and easy way.
 
@@ -187,4 +192,47 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 ### What happens after we hit ‘submit’ on a form?
 
 * The form will be submitted to the server and the browser will redirect away to the current address of the browser and append as query string parameters the values of the input fields [Source](http://stackoverflow.com/a/21814331/6664582)
+
+
+## Javascript
+----
+
+### What is Javascript?
+
+* Javascript is a high-level interpreted programming language primarily used in web applications. Its normally run in Web browsers on the client side.
+
+### What makes Javascript possible and where does it come from?
+
+* [ADD CONTENT]
+
+### Why is Javascript so popular?
+
+* [ADD CONTENT]
+
+### What makes it asynchronous? And what does that mean?
+
+* In programming, asynchronous events are those occurring independently of the main program flow. Asynchronous actions are actions executed in a non-blocking scheme, allowing the main program flow to continue processing.
+* With Ajax, web applications can retrieve data from the server asynchronously in the background without interfering with the display and behavior of the existing page [Source](http://stackoverflow.com/a/4559048/6664582)
+
+
+### If I place a javascript function at the top of the HTML (head), will it be executed? Why or why not?
+
+* [ADD CONTENT]
+
+### When a user interacts with a page, what kind of things are happening from the point of view of Javascript?
+
+* Events
+
+### How do we capture events?
+
+* Using event handlers
+
+### What is a callback function?
+
+* A function that is passed as an argument to another function, and, is invoked after some kind of event
+* Once its parent function completes, the function passed as an argument is then called
+
+### What is hoisting?
+
+* [ADD CONTENT]
 
