@@ -252,3 +252,6 @@ Resources:
 * [The Basics: Object Oriented Programming Concepts](http://www.webopedia.com/TERM/O/object_oriented_programming_OOP.html)
 
 
+Contributors:
+
+Satu Barnhill, Fidel Severino, Dimitri Serov
