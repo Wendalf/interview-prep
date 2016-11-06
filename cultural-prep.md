@@ -2,24 +2,28 @@
 
 #### Introduce yourself
 
-Don’t waste the opportunity by reciting resume, talking about personal background and hobbies. Start with academic background and your projects, certifications, things you attended (workshops, symposiums & conferences).
+Don’t waste the opportunity by reciting resume, talking about personal background and hobbies in detail.
 
-In a concise, enthusiastic response summarize your big picture fit for the job. Mention proudest achievements and goals.
+Start with mentioning milestones in your life. Summarize in few words how you got to the place your are now. While doing that, mention academic background and your projects, certifications, things you attended (workshops, symposiums & conferences).
+
+Basically in a concise, enthusiastic response summarize your big picture fit for the job. Mention proudest achievements and goals.
 
 A proper answer will hit the following:
 
-**What are your primary selling points for this job?**
+* Major milestones in your life or past 10+ years of professional career
+
+_What are your primary selling points for this job?_
 
 * Experience
 * Training
 * Skills
 
-**Why are you interested in this position right now?**
+_Why are you interested in this position right now?_
 
 * Why you are looking for a new challenge?
 * Why this role is the best next step?
 
-For more info check sources below:
+Find more info below:
 
 * [HOW TO ANSWER: Tell Me About Yourself](https://biginterview.com/blog/2011/09/tell-me-about-yourself.html)
 * [How should you introduce yourself in an interview?](https://www.quora.com/How-should-you-introduce-yourself-in-an-interview)
