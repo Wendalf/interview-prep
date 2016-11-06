@@ -1,6 +1,6 @@
 # Potential Cultural Questions
 
-#### Introduce yourself
+### Introduce yourself
 
 Don’t waste the opportunity by reciting resume, talking about personal background and hobbies in detail.
 
@@ -28,7 +28,7 @@ Find more info below:
 * [HOW TO ANSWER: Tell Me About Yourself](https://biginterview.com/blog/2011/09/tell-me-about-yourself.html)
 * [How should you introduce yourself in an interview?](https://www.quora.com/How-should-you-introduce-yourself-in-an-interview)
 
-#### Why did you become a developer?
+### Why did you become a developer?
 
 Potential Reasons:
 
@@ -44,7 +44,7 @@ Potential Reasons:
 
 * [Source](https://www.reddit.com/r/webdev/comments/3vgyd2/why_did_you_want_to_become_a_web_developer/cxnpjhr/)
 
-#### Why should we hire you? What would you bring to the position?
+### Why should we hire you? What would you bring to the position?
 
 Reiterate your most impressive strengths and/or describe your most memorable selling points, tailored to align with the top requirements in the job description.
 
@@ -62,7 +62,7 @@ Accomplishments and success stories are always good.
 
 For more details check [Source](https://biginterview.com/blog/2013/04/why-should-we-hire-you.html)
 
-#### Weakenesses
+### Weakenesses
 
 * Discuss Non-Essential Skills
 * Mention Skills You Have Improved
@@ -78,35 +78,35 @@ Possible answer to consider
 
 [More Info](https://www.thebalance.com/what-is-your-greatest-weakness-2061288)
 
-#### Strengths
+### Strengths
 
 * I have an extremely strong work ethic. When I'm working on a project, I don't want just to meet deadlines. Rather, I prefer to complete the project well ahead of schedule.
 
 
-#### How do you handle a challenging situation? Give an example.
+### How do you handle a challenging situation? Give an example.
 
 * Recall a professional challenge that was significant, but one that you consider a success. Explain how you achieved success.
 * Emphasize the outcome and what you learned from it. Emphasize how you made the most of a difficult time.
 
 [More info](https://www.thebalance.com/job-interview-question-how-did-you-handle-a-challenge-2061243)
 
-#### How do you juggle competing priorities?
+### How do you juggle competing priorities?
 
 By first assessing what needs to get done and assigning difficulty levels for particular tasks.
 
 If I am dealing with a short deadline and high difficulty project, I group similar items together and get started early on difficult, time consuming tasks first so that if I am approaching close to the deadline I am not scrambing and can address other things as needed.
 
-#### What was the last project you worked on?
+### What was the last project you worked on?
 
-#### When was the last time you had to learn something new on your own?
+### When was the last time you had to learn something new on your own?
 
-#### Why do you want to work here?
+### Why do you want to work here?
 
 Move beyond an attractive culture or lifelong dream and put your skills into the context of a deliverable to the employer.
 
-#### What would you do to improve our product?
+### What would you do to improve our product?
 
-#### Do you have any questions for me?
+### Do you have any questions for me?
 
 * What constitutes success in this position and within the organization?
 * Can you tell me about the team I'd be working with?
