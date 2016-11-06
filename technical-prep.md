@@ -161,7 +161,7 @@ Questions taken from [here](http://www.theodinproject.com/courses/ruby-programmi
 
 * An ORM (Object Relational Mapper) is a piece/layer of software that helps map your code objects to your database
 
-[NEEDS EDITING]   
+[NEEDS EDITING]
 * Base classes are represented with tables
 * Table names are associated with the class names
 * Table columns are mapped to database based on the that classes attributes
@@ -272,33 +272,6 @@ Resources:
 * [What is object-oriented programming?](https://www.quora.com/What-is-object-oriented-programming)
 * [15 Questions to Ask During a Ruby Interview](https://gist.github.com/ryansobol/5252653)
 * [The Basics: Object Oriented Programming Concepts](http://www.webopedia.com/TERM/O/object_oriented_programming_OOP.html)
-
-
-
-What is an instance variable?
-What's the difference between an instance variable and a 'regular' variable?
-What are "getter" and "setter" methods used for?
-What is the difference between a "getter" and a "setter" method?
-How do you make instance variables readable outside your class? Writeable? Both at the same time?
-Can a class call its own class methods?
-What's the difference between when you would use a class variable and when you would use a constant?
-What's the difference between a class and a module?
-When would you use a class but not a module?
-How does inheritance work?
-Why is inheritance really useful?
-How do you extend a class? What does that mean?
-What does #super do? Why use it?
-Scope:
-
-
-What is scope?
-When can you start using a variable?
-When is a new scope defined?
-When are methods in scope?
-What is a private method?
-What is a protected method?
-How are private and protected methods different?
-What does "encapsulation" mean?
 
 Other Contributors:
 

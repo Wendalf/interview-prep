@@ -19,3 +19,30 @@ Questions here should be added and organized in a appropriate files
 
 * HTTP status codes exist to let the client know what kind of response
 they are getting, and what to do with it. [Source](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+
+
+
+
+* What is an instance variable?
+* What's the difference between an instance variable and a 'regular' variable?
+* What are "getter" and "setter" methods used for?
+* What is the difference between a "getter" and a "setter" method?
+* How do you make instance variables readable outside your class? Writeable? Both at the same time?
+* Can a class call its own class methods?
+* What's the difference between when you would use a class variable and when you would use a constant?
+* What's the difference between a class and a module?
+* When would you use a class but not a module?
+* How does inheritance work?
+* Why is inheritance really useful?
+* How do you extend a class? What does that mean?
+* What does #super do? Why use it?
+
+Scope:
+
+* What is scope?
+* When can you start using a variable?
+* When is a new scope defined?
+* When are methods in scope?
+* What is a private method?
+* What is a protected method?
+* How are private and protected methods different?
