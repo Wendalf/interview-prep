@@ -8,4 +8,4 @@ Questions taken from:
 
 Other Contributors:
 
-Various people from Foreign Methods Class (WDF-000) @ [Flatiron School](Coding Bootcamp. Learn to Code. | Flatiron School), Summer 2016 - Winter 2017
+Various people from Foreign Methods Class (WDF-000) @ [Flatiron School](https://flatironschool.com/), Summer 2016 - Winter 2017
