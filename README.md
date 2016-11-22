@@ -4,6 +4,9 @@ This repo is dedicated for web development related interview perparation questio
 
 This is a work in progress. Feel free to improve it.
 
-* [Technical Questions](technical-prep.md)
+* [Technical Concepts](technical-concepts-prep.md)
+* [Ruby](ruby-prep.md)
+* [Javascript](javascript-prep.md)
 * [Cultural Questions](cultural-prep.md)
 * [Questions to Add](questions-to-add.md)
+* [Sources](sources.md)
