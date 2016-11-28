@@ -6,6 +6,7 @@ This is a work in progress. Feel free to improve it.
 
 * [Technical Concepts](technical-concepts-prep.md)
 * [Ruby](ruby-prep.md)
+* [Rails](rails-prep.md)
 * [Javascript](javascript-prep.md)
 * [Cultural Questions](cultural-prep.md)
 * [Questions to Add](questions-to-add.md)
