@@ -1,4 +1,4 @@
-# Potential Cultural Questions
+# Cultural Questions
 
 ### Introduce yourself
 
@@ -82,6 +82,8 @@ Possible answer to consider
 
 * I have an extremely strong work ethic. When I'm working on a project, I don't want just to meet deadlines. Rather, I prefer to complete the project well ahead of schedule.
 
+[ADD CONTENT]
+
 
 ### How do you handle a challenging situation? Give an example.
 
@@ -90,21 +92,43 @@ Possible answer to consider
 
 [More info](https://www.thebalance.com/job-interview-question-how-did-you-handle-a-challenge-2061243)
 
+### When working on a team, how did you handle a conflict and how did you resolve it?
+
+[ADD CONTENT]
+
 ### How do you juggle competing priorities?
 
 By first assessing what needs to get done and assigning difficulty levels for particular tasks.
 
 If I am dealing with a short deadline and high difficulty project, I group similar items together and get started early on difficult, time consuming tasks first so that if I am approaching close to the deadline I am not scrambing and can address other things as needed.
 
-### What was the last project you worked on?
+### What was the last project you worked on? Talk about your projects.
+
+[ADD CONTENT]
 
 ### When was the last time you had to learn something new on your own?
+
+[ADD CONTENT]
 
 ### Why do you want to work here?
 
 Move beyond an attractive culture or lifelong dream and put your skills into the context of a deliverable to the employer.
 
 ### What would you do to improve our product?
+
+[ADD CONTENT]
+
+### What excites you the most about this position?
+
+[ADD CONTENT]
+
+### Do you want to work at google? Why or why not?
+
+[ADD CONTENT]
+
+### What are you doing recently?
+
+[ADD CONTENT]
 
 ### Do you have any questions for me?
 
