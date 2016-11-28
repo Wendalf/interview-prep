@@ -1,6 +1,6 @@
 # Index
 
-This repo is dedicated for web development related interview perparation questions and tips.
+This repo is dedicated to Flatiron School post-graduate web development related interview perparation.
 
 This is a work in progress. Feel free to improve it.
 

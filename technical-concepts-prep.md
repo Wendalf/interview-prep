@@ -3,10 +3,7 @@
 Topics Covered:
 
 * General Programming Concepts
-* Ruby Specific
-* ORM & ActiveRecord
-* Rails
-* Javascript
+* Ruby & Javascript based examples
 
 ## OOP and Classes
 ----
