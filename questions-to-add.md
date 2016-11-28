@@ -46,3 +46,9 @@ Scope:
 * What is a private method?
 * What is a protected method?
 * How are private and protected methods different?
+
+
+Misc:
+
+* Explain what git commit is.
+* Explain how to roll back a commit.

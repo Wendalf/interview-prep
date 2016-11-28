@@ -3,6 +3,8 @@
 Topics Covered:
 
 * General Programming Concepts
+    * OOP concepts
+    * Data structures
 * Ruby & Javascript based examples
 
 ## OOP and Classes
@@ -93,3 +95,20 @@ Topics Covered:
 
 * [ADD CONTENT]
 
+## Data Structures
+----
+
+### What is a hash?
+
+### What is a linked list?
+
+## Algorithms
+----
+
+### What is constant time?
+
+* In "constant time" generally means that the time it will take to compute the result is independent of the size of the input. Also written as O(1).
+
+* Accessing any single element in an array takes constant time as only one operation has to be performed to locate it. Finding the minimum value in an unordered array is not a constant time operation because a full scan of the elements is required and the time required to complete that scan grows with the number of elements.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Constant_time)
