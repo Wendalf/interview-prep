@@ -102,6 +102,31 @@ Topics Covered:
 
 ### What is a linked list?
 
+> A linked list is data structure consisting of a linear collection of data elements called nodes which together represent a sequence. Each node holds a single element of data and a _pointer_ to the next node.
+
+> The principal benefit of a linked list over a conventional array is that the list elements can easily be inserted or removed without reallocation of any other elements.
+
+In the simplest implementation of a LinkedList, each node has the following:
+
+> value = represents the value of the node (e.g. integer, Class, etc.)
+
+> next = pointer to the next value in the sequence
+
+In most implementations, you also have a head and a tail pointer:
+
+> head = points to the first Node in the linked list
+
+> tail = points to the last Node in the linked list
+
+![LinkedList structure](https://carlosplusplus.github.io/images/posts/2013-08-08-linked-lists-and-ruby/linkedlist_layout.png)
+
+Sources:
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
+* [Linked Lists and Ruby](https://carlosplusplus.github.io/blog/2013/08/08/linked-lists-and-ruby/)
+* [The Odin Project - Linked Lists Project](http://www.theodinproject.com/courses/ruby-programming/lessons/linked-lists)
+* [Related Learn Lab Example](https://github.com/ozPop/linked-lists-wdf-000/blob/master/simple-lists/simple_linked_list.rb)
+
 ## Algorithms
 ----
 
