@@ -34,10 +34,15 @@
 
 * Using event handlers
 
+### Javascript functions are _First-Class Functions_. Explain what that means.
+
+* Functions can be passed around as values to other functions and assigned to variables or stored in data structures.
+
 ### What is a callback function?
 
 * A function that is passed as an argument to another function, and, is invoked after some kind of event
-* Once its parent function completes, the function passed as an argument is then called
+* Once the parent function completes, the function passed as an argument is then called
+* Callbacks are usually used for asynchronous operations when requesting a JSON file, also accessing the file system or database in Node.js.
 
 ### What is hoisting?
 

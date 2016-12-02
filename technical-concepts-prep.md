@@ -100,6 +100,12 @@ Topics Covered:
 
 ### What is a hash?
 
+As defined by [Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
+
+> In computing, a hash table (hash map) is a data structure used to implement an associative array, a structure that can map keys to values.
+
+[ADD MORE CONTENT]
+
 ### What is a linked list?
 
 > A linked list is data structure consisting of a linear collection of data elements called nodes which together represent a sequence. Each node holds a single element of data and a _pointer_ to the next node.
@@ -120,12 +126,52 @@ In most implementations, you also have a head and a tail pointer:
 
 ![LinkedList structure](https://carlosplusplus.github.io/images/posts/2013-08-08-linked-lists-and-ruby/linkedlist_layout.png)
 
+### What is a Binary Tree?
+
+As defined by [Wikipedia](https://en.wikipedia.org/wiki/Binary_tree)
+
+> A binary tree is a tree data structure in which each node has at most two children, which are referred to as the left child and the right child.
+
+A binary tree is made of nodes, where each node contains a "left" reference, a "right" reference, and a data element. The topmost node in the tree is called the root.
+
+Trees are so useful and frequently used, because they have some very serious advantages:
+
+* Trees reflect structural relationships in the data
+* Trees are used to represent hierarchies
+* Trees provide an efficient insertion and searching
+* Trees are very flexible data, allowing to move subtrees around with minumum effort
+
+#### What is a Binary Search Tree?
+
+A Binary Search Tree consists of a series of connected nodes, but unlike in the Binary Tree, all data in the left subtree is less than or equal to the current node's data, and all data in the right subtree is greater than the current node's data.
+
+A BST is a binary tree where nodes are ordered in the following way:
+
+* each node contains one key (also known as data)
+* the keys in the left subtree are less then the key in its parent node, in short L <= P
+* the keys in the right subtree are greater the key in its parent node, in short P < R
+* duplicate keys are not allowed
+
 Sources:
+
+_Linked Lists_
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
 * [Linked Lists and Ruby](https://carlosplusplus.github.io/blog/2013/08/08/linked-lists-and-ruby/)
 * [The Odin Project - Linked Lists Project](http://www.theodinproject.com/courses/ruby-programming/lessons/linked-lists)
 * [Related Learn Lab Example](https://github.com/ozPop/linked-lists-wdf-000/blob/master/simple-lists/simple_linked_list.rb)
+
+_Binary Trees_
+
+* [Binary Trees Lesson](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html)
+* [BST Implementation E.G: 0](http://rubyalgorithms.com/binary_search_tree.html)
+* [BST Implementation E.G: 1](http://www.mikeperham.com/2014/11/26/building-a-binary-tree-with-enumerable/)
+* [BST Implementation E.G: 2](https://gist.github.com/yuya-takeyama/812489)
+
+_Other Links_
+
+* [Ruby: Linked Lists and Hash Tables](https://www.sitepoint.com/ruby-interview-questions-linked-lists-and-hash-tables/)
+
 
 ## Algorithms
 ----
