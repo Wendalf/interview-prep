@@ -55,8 +55,12 @@ Topics Covered:
 
 ### How do you instantiate a class?
 
-* You call a method (in ruby `new`)
+This differs based on language used
+
+* In Ruby you call a method `new`
     * [Source](http://stackoverflow.com/a/1486212/6664582)
+* In Python calling the class as if it were a function creates an instance
+* In Javascript (es6) use the `new` keyword (`let instance = new ClassName()`)
 
 ### How do you set the state of your new instance?
 
@@ -152,6 +156,16 @@ A BST is a binary tree where nodes are ordered in the following way:
 * the keys in the right subtree are greater the key in its parent node, in short P < R
 * duplicate keys are not allowed
 
+### What are stacks and queues? How are they different?
+
+_A Stack_ is a data structure based on principle of "Last in first out(LIFO)". Stack is container to hold nodes and has two operations - push and pop. Push operation is to add nodes into the stack and pop operation is to delete nodes from the stack and returns the top most node.
+
+A stack is like a stack of plates, the item that was put in the stack most recently is the first item that comes out.
+
+_A Queue_ is a data structure based on the principle First in first out(FIFO). The nodes are kept in an order. A node is inserted from the rear of the queue and a node is deleted from the front. The first element inserted in the first element first to delete.
+
+A queue is like a line at the movie theater, the item that was put in the queue longest ago is the first item that comes out. "First come, first served."
+
 Sources:
 
 _Linked Lists_
@@ -167,6 +181,11 @@ _Binary Trees_
 * [BST Implementation E.G: 0](http://rubyalgorithms.com/binary_search_tree.html)
 * [BST Implementation E.G: 1](http://www.mikeperham.com/2014/11/26/building-a-binary-tree-with-enumerable/)
 * [BST Implementation E.G: 2](https://gist.github.com/yuya-takeyama/812489)
+
+_Stacks & Queues_
+
+* [Stack and Queue - careerride.com](http://www.careerride.com/Interview-Questions-Data-Structures-Stack-queue.aspx)
+* [Learn lab](https://learn.co/tracks/wdf-post-work/post-work-planning/technical-interview-prep/queues-and-stacks)
 
 _Other Links_
 
