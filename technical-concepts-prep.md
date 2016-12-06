@@ -108,7 +108,11 @@ As defined by [Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
 
 > In computing, a hash table (hash map) is a data structure used to implement an associative array, a structure that can map keys to values.
 
-[ADD MORE CONTENT]
+Hashes allow us to store named, or associated, data. Think of a dictionary or an address book. This allows us to store more complex collections of information than the arrays.
+
+Hashes are structured with keys and values. Each key/value pair makes up one unit in the hash.
+
+If an array is a list in which we access index items by their number, a hash is a dictionary in which we access values by their key.
 
 ### What is a linked list?
 
