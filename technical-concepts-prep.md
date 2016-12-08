@@ -12,7 +12,8 @@ Topics Covered:
 
 ### What is Object Oriented Programming?
 
-* Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which are data structures that contain data. It has attributes and procedures, often known as methods.
+* Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects". Objects are data structures that contain properties/data (AKA attributes) and behavior/procedures known as methods. It is an extremely useful programming paradigm in which we can organize our code according to how real-world objects might interact with one another.
+
 * OOP incorporates logical classes, objects, methods, relationships and other processes.
 * [A story](https://www.quora.com/What-is-object-oriented-programming)
 
@@ -22,18 +23,22 @@ Topics Covered:
 * Inheritance
 * Polymorphism
 
-### What is Inheritance? Polymorphism? Encapsulation? Abstraction?
+### What is Inheritance? Polymorphism? Encapsulation?
 
 * Inheritance - Objects inherit characteristics of their parent class
     * A new object derives from an existing class. The object inherits the characteristics of the more general class. The object is sometimes called a derived class, while the more general class is known as a base class.
+* Polymorphism - literal meaning ‘a state of having many shapes’
+    * Programming language's ability to processes objects differently depending on their data type or class
+    * Polymorphism is used to make applications more modular and extensible. Instead of messy conditional statements describing different courses of action, you create interchangeable objects that you select based on your needs. That is the basic goal of polymorphism.[Source](https://code.tutsplus.com/tutorials/understanding-and-applying-polymorphism-in-php--net-14362)
 * Enapsulation - Keeping things seperate
-    * Encapsulation is that you want to keep each type or object discreet and self-contained, so that you can change the implementation of one object without affecting any other object. [Source](http://stackoverflow.com/a/2285425/6664582)
-* Polymorphism - treating objects in a certain way [THIS DEFINITION NEEDS WORK]
-    * Programming language processes objects differently depending on their data type or class
-    * Polymorphism describes a pattern in object oriented programming in which classes have different functionality while sharing a common interface. [Source](https://code.tutsplus.com/tutorials/understanding-and-applying-polymorphism-in-php--net-14362)
+    * Encapsulation is a technique that some say is used as part of abstraction. It may or may not be for aiding in abstraction, but it is certainly about information hiding and/or organisation.[Source](http://stackoverflow.com/a/8961062/6664582)
+    * Keep each type or object discreet and self-contained, so that you can change the implementation of one object without affecting any other object. [Source](http://stackoverflow.com/a/2285425/6664582)
+
+### What is Abstraction?
+
 * Abstraction - expose only what matters
-    * Hide all but the relevant data about an object in order to reduce complexity and increase efficiency
-    * The process of picking out (abstracting) common features of objects and procedures
+    * Abstraction is the concept of describing something in simpler terms, i.e abstracting away the details, in order to focus on what is important. [Source](http://stackoverflow.com/a/8961062/6664582)
+    * Hide all but the relevant data about an object in order to reduce complexity
 
 ### What is a class?
 
@@ -68,6 +73,8 @@ This differs based on language used
 
 ### What is a class method?
 
+[FIX THIS UP, EXAMPLES REFERENCE RUBY, MAKE MORE GENERIC]
+
 * Class method can be used with just the class name, it belongs to the class as a whole. It is a property for the whole class, so its called as ClassName.methodName(). Class methods can access class variables and class methods directly. 
 * You should use Class Methods when the functionality you are writing does not belong to an instance of that class.
     * [Wikipedia](https://en.wikipedia.org/wiki/Method_(computer_programming)#Class_methods)
@@ -89,6 +96,7 @@ This differs based on language used
 ### What is a module
 
 * Modules are about providing methods that you can use across multiple classes - think about them as "libraries"
+* A module is a component used to logically regroup similar things
 
 ### Differences between Objects and Modules
 
@@ -206,3 +214,42 @@ _Other Links_
 * Accessing any single element in an array takes constant time as only one operation has to be performed to locate it. Finding the minimum value in an unordered array is not a constant time operation because a full scan of the elements is required and the time required to complete that scan grows with the number of elements.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Constant_time)
+
+## Misc
+----
+
+### What is metaprogramming?
+
+In short: Code that writes code.
+
+Metaprogramming is the writing of programs that operate on other programs. Metaprogramming is a powerful tool, it can make our lives easier by automating repetitive tasks or providing something like a mini-language inside of another programming language that has the benefits of being concise and descriptive.
+
+A danger of metaprogramming is that it can result in very hard to follow code that obscures what is actually happening. [Source](https://learn.co/tracks/full-stack-web-development/object-oriented-ruby/object-properties/object-accessors)
+
+### What is a domain model?
+
+A domain model is a representation of real-world concepts in software.
+
+In other words, Domain Modeling is a way to describe and model real world entities and the relationships between them.
+
+[Further reading](http://www.scaledagileframework.com/domain-modeling/)
+
+### What is REST?
+
+REST is an architectural design pattern and stands for _Representational State Transfer_. It is a standard for how web apps should structure their URLs making clear and standardized naming structure for routes and actions.
+
+There are seven potential RESTful route options available:
+
+| Action        | HTTPmethod    |
+| ------------- |:-------------:|
+| INDEX         | GET           |
+| SHOW          | GET           |
+| CREATE        | POST          |
+| NEW           | GET           |
+| EDIT          | GET           |
+| UPDATE        | PUT/PATCH     |
+| DESTROY       | DELETE        |
+
+> The aim of Restful Routing is to make you concious of your controllers. While you may bend the rules when appropriate, you should really focus on keeping all controllers limited to these seven actions. If you fight the conventions of Restful Routing, you will not be leveraging the strength of our opinionated framework.
+
+[SOURCE](http://restfulrouting.com/#introduction)

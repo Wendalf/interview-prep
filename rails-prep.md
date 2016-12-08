@@ -86,3 +86,7 @@
 * E.G.: Before filter may halt execution of request cycle to make sure a user is logged in for an action to be run.
 
 [Rails Filters](http://guides.rubyonrails.org/action_controller_overview.html#filters)
+
+### What is a nested form?
+
+* A nested form is a form within an other form which allows you to combine more than one model in your forms. The aim is to provide a better user experience.
