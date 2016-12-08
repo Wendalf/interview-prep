@@ -18,4 +18,5 @@ For example: if the array contains |14|1|18|23|12|8|16|, then the biggest possib
 Sample inputs:
 
 arr = [ 14, 1, 18, 23, 12, 8, 16 ] # highest loss 15
+
 arr = [ 18, 5, 19, 7 ] # highest loss 13
